@@ -17,6 +17,10 @@
     background-color: rgb(102, 0, 128);
 }
 
+.white{
+    background-color: white;
+}
+
 .Active{
     border: 0px white solid;
     background-color: rgb(112, 168, 187);
