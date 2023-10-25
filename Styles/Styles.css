@@ -1,0 +1,36 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    width: 100px;
+    height: 125px;
+    background-color: #D9D9D9;
+}
+
+.titleText
+{
+    color: rgb(139, 77, 58);
+}
+
+.purple{
+    background-color: rgb(102, 0, 128);
+}
+
+.Active{
+    border: 0px white solid;
+    background-color: rgb(112, 168, 187);
+    color: white;
+}
+
+.red{
+    color: red;
+}
+
+.border{
+    border: 200px solid black;
+}
+
+.small{
+    width: 45%;
+}
